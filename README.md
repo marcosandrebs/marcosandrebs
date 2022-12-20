@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @marcosandrebs
+- 👀 I’m interested in improving my knowledge in development
+- 🌱 I’m currently learning HTML, CSS and JS
